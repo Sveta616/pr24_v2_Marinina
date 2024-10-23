@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pact24_var2_Marinina</string>
+    <string name="enter">Регистрация для входа на свою страницу</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="next">Войти</string>
+    <string name="reg">Регистрация</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
